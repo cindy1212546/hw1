@@ -731,7 +731,7 @@
             </objects>
             <point key="canvasLocation" x="1380" y="883.74384236453204"/>
         </scene>
-        <!--Table View Controller-->
+        <!--小漫畫-->
         <scene sceneID="m34-Uw-AzY">
             <objects>
                 <tableViewController id="FlQ-L4-SCV" sceneMemberID="viewController">
@@ -877,7 +877,7 @@
                             <outlet property="delegate" destination="FlQ-L4-SCV" id="0Wf-wb-7aY"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="8p4-Yu-l3P"/>
+                    <navigationItem key="navigationItem" title="小漫畫" id="8p4-Yu-l3P"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Zdm-hZ-Nqd" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
